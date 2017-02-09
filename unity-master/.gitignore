@@ -1,0 +1,15 @@
+.DS_Store
+.vs
+*.suo
+Library
+Temp
+AssetStoreTools
+obj/*
+/*.csproj
+/*.sln
+
+/standalone/bin
+/standalone/**/obj
+
+*.o
+

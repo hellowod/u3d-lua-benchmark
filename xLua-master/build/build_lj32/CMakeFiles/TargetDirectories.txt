@@ -1,0 +1,3 @@
+D:/workspace/gitwork/unity_prj/unity-hotfix/xLua/build/build_lj32/CMakeFiles/xlua.dir
+D:/workspace/gitwork/unity_prj/unity-hotfix/xLua/build/build_lj32/CMakeFiles/ALL_BUILD.dir
+D:/workspace/gitwork/unity_prj/unity-hotfix/xLua/build/build_lj32/CMakeFiles/ZERO_CHECK.dir
